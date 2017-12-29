@@ -1,1 +1,3 @@
-#staticesource
+#staticResource
+
+hello world!
